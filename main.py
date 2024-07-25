@@ -5,7 +5,7 @@ import torch
 def main():
     print("Hello PyTorchTest")
 
-    x = torch.rand(5, 3)
+    x = torch.rand(5, 4)
 
     print(x)
 
